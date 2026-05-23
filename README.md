@@ -33,10 +33,10 @@ Building projects to grow my portfolio
 ---
 
 ## Projects
--Intelligent vegetable wastage management system
--Vegetable-Marcket-Hub
--Student-management-System
--Staff-management-system
+- Intelligent vegetable wastage management system
+- Vegetable-Marcket-Hub
+- Student-management-System
+- Staff-management-system
 
 
 ---
